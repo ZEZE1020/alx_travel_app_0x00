@@ -1,7 +1,5 @@
 # alx_travel_app_0x00
 
-# alx_travel_app_0x00
-
 alx_travel_app_0x00 is a Django-based backend project prepared for scalable travel-related features and seamless collaboration across multiple teams.
 
 ## Features
