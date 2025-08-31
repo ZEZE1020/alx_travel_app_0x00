@@ -1,4 +1,4 @@
-# alx_travel_app_0x00
+34# alx_travel_app_0x00
 
 alx_travel_app_0x00 is a Django-based backend project prepared for scalable travel-related features and seamless collaboration across multiple teams.
 
@@ -89,6 +89,3 @@ See `.env.example` for all required variables:
 
 Celery and RabbitMQ are included in requirements for future async/background task support. See [Celery documentation](https://docs.celeryq.dev/en/stable/getting-started/introduction.html) for setup.
 
-## License
-
-MIT or as specified by your organization.
